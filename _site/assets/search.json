@@ -37,16 +37,23 @@
   },
   
   {
-    "title": "Elements",
+    "title": "Contacts",
     "excerpt": "A demo of Markdown and HTML includes\n",
-    "content": "Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A small element A link Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in A link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.  An item An item An item An item An item Item one Item two Item three Item four Item five A simple blockquote &lt;div&gt; &lt;span&gt;Some example code&lt;/span&gt; &lt;/div&gt; Single line of code HTML Includes Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. Demo map embed  Button include A button A button with icon  Icon include Video include  Image includes  This image has a caption  This image has a caption but also alt text  ",
-    "url": "/elements/"
+    "content": "Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. ",
+    "url": "/contacts/"
   },
   
   {
-    "title": "Kamal Awasthi",
+    "title": "Contact",
+    "excerpt": "A demo of Markdown and HTML includes\n",
+    "content": "Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A small element A link Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in A link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.  An item An item An item An item An item Item one Item two Item three Item four Item five A simple blockquote &lt;div&gt; &lt;span&gt;Some example code&lt;/span&gt; &lt;/div&gt; Single line of code HTML Includes Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. Demo map embed  Button include A button A button with icon  Icon include Video include  Image includes  This image has a caption  This image has a caption but also alt text  ",
+    "url": "/elements_1/"
+  },
+  
+  {
+    "title": "Introduction",
     "excerpt": "\n",
-    "content": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it. Features  Available as a starter kit or as Jekyll theme gem Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more Solid typographic framework from Sassline Examples Here are a few examples of Alembic out in the wild being used in a variety of ways:  bitpodcast.com ",
+    "content": "I am a 23 years old, UG student @Indian Institute of Information Technology Vadodara, Gujarat, India. I love Machine Learning and Deep Neural Networks. Internships and Projects Here is a list of projects I have worked on:  DAiSEE.com GBike Digital System Interests  Machine Learning Poetry (Hindi &amp; English) ",
     "url": "/"
   },
   

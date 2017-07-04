@@ -20,7 +20,7 @@ exclude:
 - Gemfile.lock
 - demo/*
 - alembic-jekyll-theme.gemspec
-- jekyll-language-plugin
+
 
 # 2. Installed Gems
 plugins:
@@ -31,6 +31,8 @@ plugins:
 - jekyll-redirect-from
 - jekyll-feed
 - jemoji
+- jekyll-seo-tag
+- jekyll-language-plugin
 
 # 3. Gem settings
 paginate: 5 # jekyll-paginate > items per page

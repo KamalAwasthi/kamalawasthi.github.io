@@ -1,0 +1,123 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- demo/*
+- alembic-jekyll-theme.gemspec
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+# 3. Gem settings
+paginate: 5 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: kamalawasthi19 # jekyll-seo-tag > Owners twitter username
+author: Kamal Awasthi # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Kamal Awasthi # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/kamalawasthi19
+    - https://www.facebook.com/kamalawasthi97
+    - https://www.linkedin.com/in/kamal-awasthi/
+    - https://plus.google.com/+kamalawasthi97
+    - https://github.com/KamalAwasthi
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: India/Kolkata # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    # feature_text: |
+    # feature_image: "https://unsplash.it/6016/4016?image=998"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      image: "/assets/default-social-image.png" # Default image for sharing
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Kamal" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+# url: "https://" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/KamalAwasthi"
+email: "kamalawasthi97@gmail.com"
+disqus: "commentsatmyblog" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+avatarurl: "https://s.gravatar.com/avatar/f4b30889f433782e41bfe0137e0b8a2c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Blog: /blog/
+  Categories: /categories/
+  Search: /search/
+  Contact: /contacts/
+
+navigation_footer:
+  Created by Kamal Awasthi: https://kamalawasthi.in
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/kamalawasthi19
+  LinkedIn: https://www.linkedin.com/in/kamal-awasthi/
+  Google+: https://plus.google.com/+kamalawasthi97
+  GitHub: https://github.com/KamalAwasthi
+  link: https://kamalawasthi.in
+  # RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  Twitter: "#1DA1F2"
+  facebook: "#3B5998"
+  Google+: "#DC4E41"
+  # Pinterest: "#BD081C"
+  LinkedIn: "#0077B5"
+  # tumblr: "#36465D"
+  # Reddit: "#FF4500"
+  # Hacker News: "#ff6600"
+  # Designer News: "#2D72D9"
+  # Email: ""

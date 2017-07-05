@@ -1,9 +1,9 @@
 ---
-title: Description of an Alembic
+title: My very first blog post
 category: General
 feature_text: |
-  ## First Post
-  This is the very first post for testing
+  ## My very first blog post
+  Why do I want to write a blog?
 comments: true
 ---
 

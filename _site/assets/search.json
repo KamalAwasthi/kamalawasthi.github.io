@@ -6,7 +6,7 @@
     
     
       {
-        "title": "Description of an Alembic",
+        "title": "My very first blog post",
         "excerpt": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n",
         "content": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container. Retorts have the “cap” and the “cucurbit” made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages. Originally from Alembic - Wikipedia ",
         "url": "/general/2016/08/27/example-post-one/"
@@ -37,9 +37,9 @@
   },
   
   {
-    "title": "Introduction",
+    "title": "About Me",
     "excerpt": "\n",
-    "content": "I am a 23 years old, UG student @Indian Institute of Information Technology Vadodara, Gujarat, India. I love Machine Learning and Deep Neural Networks. Internships and Projects Here is a list of projects I have worked on:  DAiSEE.com GBike Digital System Interests  Machine Learning Poetry (Hindi &amp; English) ",
+    "content": "I am a 23 years old, UG student @Indian Institute of Information Technology Vadodara, Gujarat, India. I have wroked on many Python-Django &amp; Flask based open-source projects. I am currently working on Machine Learning and Deep Neural Netwroks. Internships and Projects Internships &amp; Certificates:  Summer Internships 2017 at Indian Institute of Technology Hyderabad Certificate in Ajax, JQuery and JS from Winter Training at Internshala.com Certificate in Modern App Developement from NPTEL-IITMadras Projects:    DAiSEE  It is one of a kind video dataset(expected to be publicly available soon) for Neural Network and Computer Vision research. It is the project of my Summer-Internships 2017 at IIT-Hyderabad     IIIT Vadodara College Website  It is the repository of the source code for official website of Indian Institute of Information Technology Vadodara. I worked as Supporting Developer in the project. You can call contributor() function in debugging console of your browser to see the full list of contributors     GBike Digital System  I worked as Main Back-End Developer and Web App Deisgner for the Web and phone integrated App for GBike project, Gnadinagar, Gujarat, India. THe project is an initiative of Gandhinagar Urban Developement Authority, Gandhinagar, Gujarat, India.     Location Assistant  Location Assistant is an android app which lets you share you current loation on Google-Maps with you friends. You can add/remove you friendlist and people in your friend will be able to track you your location whenever they want. It has many additional features like location baed reminders, location baed notifications etc.     LaunchX  LaunchX is a AutoHotKey based quick shortcut app for launching you favourite and frequently used apps on windows with just one click.   Interests &amp; Hobbies  Writing Poems Reading ",
     "url": "/"
   },
   

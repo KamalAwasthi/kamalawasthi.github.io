@@ -2,7 +2,7 @@
 title: Why do I think I should write?
 category: General
 feature_text: |
-  ## Everyone has to start somehwere.
+  ## "Everyone has to start somehwere."
 future: true
 ---
 

@@ -10,7 +10,7 @@ Well! let’s face this. We all have to start somewhere. Every famous name today
 In a video, Code Stars by code.org, Tech Giants have discussed that we all have to start from scratch. We do not need to wait for a miracle to happen. All we need is determination and a strong will to take the first step. The hardest part of the journey is the first step. Once you have taken that, you are already halfway there.
 
 >“Expect problems and eat them for breakfast”
-- Alfred A. Montapert
+-Alfred A. Montapert
 
 As we start our journey, we face many new and exciting challenges. And as we are faced with a problem, we ought to seek its solution. We learn the most when we search the solutions for our problems. This process of “being stuck & seeking a solution”, is an indispensable part of learning.
 

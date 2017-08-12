@@ -24,8 +24,8 @@ When I am not reading or writing, I am probably sleeping or thinking deep about 
 
 ### Projects:
 
-- [DAiSEE](#)
-: It is one of a kind video dataset`(expected to be publicly available soon)` for Neural Network and Computer Vision research. It is the project of my Summer-Internships 2017 at IIT-Hyderabad
+- [DAiSEE : Towards the User Engagement Recognition in the wild](#)
+: It is one of a kind video dataset`(expected to be publicly available soon)`. The project involved the reliable recognition of the videos in the wild, and Developement of well organised dataset with proper documentattions. It also involved the implementation of deep-neural netwroks and 3D Convolution Techniques. This project was a part of my summer internship @[Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
 
 - [IIIT Vadodara College Website](http://www.iiitvadodara.ac.in/)
 : It is the repository of the source code for official website of Indian Institute of Information Technology Vadodara. I worked as Supporting Developer in the project. You can call `contributor()` function in debugging console of your browser to see the full list of contributors

@@ -9,7 +9,7 @@ feature_text: |
 feature_image: "assets/back.jpg"
 ---
 
-I am a 23 years old, final year UG student [@Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. My latest intrests include Machine Learning, Data Science, and Deep Learning. I love good content and reading Medium posts. I am a Hindi poet and sometimes write in English too. I don't create miracles but try to explore new and awesome things on web. I write about them. When I am not reading or writing, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe. 
+I am a 23 years old, final year UG student [@Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. My latest interests include Machine Learning, Data Science, and Deep Learning. I love reading good content on Medium.com & Quora. I am a Hindi poet and sometimes write in English too. I don't create miracles but try to explore new and awesome things on web. I write about them. When I am not reading or writing, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe. 
 
 
 

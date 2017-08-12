@@ -1,5 +1,5 @@
 ---
-title: A THree Step Guide to Time Management
+title: A Three Step Guide to Time Management
 category: Life Style
 future: true
 ---

@@ -4,19 +4,20 @@ feature_text: |
   *Hi, I'M*{:style="color:#e74c3c;font-size:2em;text-align:left;font-style:normal;font-weight:normal;"}
   : # KAMAL AWASTHI
   ---
-   *Data Science*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *ML*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   *Data Scientist*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *Deep Learning*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 feature_image: "assets/back.jpg"
 ---
 
-I am a 23 years old, UG student [@Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. I have wroked on many Python-Django & Flask based open-source projects. I am currently working on Machine Learning and Deep Neural Netwroks.
+I am a 23 years old, final year UG student [@Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. My latest intrests include Machine Learning, Data Science, and Deep Learning. I love good content and reading Medium posts. I am a Hindi poet and sometimes write in English too. I don't create miracles but try to explore new and awesome things on web. I write about them. When I am not reading or writing, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe. 
+
 
 
 ## Internships and Projects
 
 ### Internships & Certificates:
 
-- Summer Internships 2017 at [Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
+- Summer Research Internship in summer'17 at [Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
 - [Certificate](https://drive.google.com/file/d/0Byv4kuHK64W5eUtPZTFRYWxsSWs/view?usp=sharing) in Ajax, JQuery and JS from Winter Training at [Internshala.com](https://trainings.internshala.com/ajax-jquery-js)
 - [Certificate](http://nptel.ac.in/noc/E_Certificate/noc17-cs06/NPTEL17CS0626120086AN.pdf) in Modern App Developement from [NPTEL-IITMadras](https://onlinecourses.nptel.ac.in/noc17_cs06/course)
 

@@ -47,7 +47,6 @@ social: # jekyll-seo-tag > social overrides
     - https://twitter.com/kamalawasthi19
     - https://www.facebook.com/kamalawasthi97
     - https://www.linkedin.com/in/kamal-awasthi/
-    - https://plus.google.com/+kamalawasthi97
     - https://github.com/KamalAwasthi
 
 # 4. Jekyll settings
@@ -108,7 +107,6 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/kamalawasthi19
   LinkedIn: https://www.linkedin.com/in/kamal-awasthi/
-  Google+: https://plus.google.com/+kamalawasthi97
   GitHub: https://github.com/KamalAwasthi
   link: https://medium.com/@KamalAwasthi
   # RSS: /feed.xml

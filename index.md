@@ -4,17 +4,23 @@ feature_text: |
   *Hi, I'M*{:style="color:#e74c3c;font-size:2em;text-align:left;font-style:normal;font-weight:normal;"}
   : # KAMAL AWASTHI
   ---
-   *Data Scientist*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *Deep Learning*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   *Machiner Learning Engineer*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *Deep Learning*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 feature_image: "assets/back.jpg"
 ---
 
-I am a 22 years old, final year UG student [@Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. My latest interests include Machine Learning, Data Science, and Deep Learning. I love reading good content on Medium.com & Quora. I am a Hindi poet and sometimes write in English too. I don't create miracles but try to explore new and awesome things on web. I write about them. <br>
-When I am not reading or writing, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe.
+I am a 23 years old, BTech. graduate from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. I have huge interest in Machine Learning, Data Science, and Deep Learning. I love reading good books, Medium blogs & Quora. I am a Hindi poet and sometimes write in English too. <br>
+When I am not reading or writing, or not studying, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe.
 
 
 
-## Internships and Projects
+<!-- ## Internships and Projects -->
+
+Some of my achievements involve:
+
+### Publications:
+
+- [DAiSEE: Towards User Engagement Recognition in the Wild](https://www.visionmeetscognition.org/fpic2018/papers/12%20DAiSEE%20-%20Towards%20User%20Engagement%20Recognition%20in%20the%20Wild.pdf), dataset for understanding user engagement in the wild from videos, DAiSEE, available now [here](https://iith.ac.in/~daisee-dataset/). Dataset was presented at the 4th Vision meets Cognition workshop at CVPR 2018, and was also featured in [the media (The Hindu)](https://www.thehindu.com/sci-tech/science/iit-hyderabad-dataset-to-understand-online-user-engagement/article24180468.ece).
 
 ### Internships & Certificates:
 
@@ -25,7 +31,7 @@ When I am not reading or writing, I am probably sleeping or thinking deep about 
 ### Projects:
 
 - [DAiSEE : Towards the User Engagement Recognition in the wild](#)
-: It is one of a kind video dataset`(expected to be publicly available soon)`. The project involved the reliable recognition of the videos in the wild, and Developement of well organised dataset with proper documentattions. It also involved the implementation of deep-neural netwroks and 3D Convolution Techniques. This project was a part of my summer internship @[Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
+: It is one of a kind video dataset available [here](https://iith.ac.in/~daisee-dataset/). The project involved the reliable recognition of the videos in the wild, and Developement of well organised dataset with proper documentattions. It also involved the implementation of deep-neural netwroks and 3D Convolution Techniques. This project was a part of my summer internship @[Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
 
 - [IIIT Vadodara College Website](http://www.iiitvadodara.ac.in/)
 : It is the repository of the source code for official website of Indian Institute of Information Technology Vadodara. I worked as Supporting Developer in the project. You can call `contributor()` function in debugging console of your browser to see the full list of contributors

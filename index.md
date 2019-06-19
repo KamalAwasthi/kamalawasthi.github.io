@@ -9,7 +9,7 @@ feature_text: |
 feature_image: "assets/back.jpg"
 ---
 
-I am a 23 years old, BTech. graduate from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. I have huge interest in Machine Learning, Data Science, and Deep Learning. I love reading good books, Medium blogs & Quora. I am a Hindi poet and sometimes write in English too. <br>
+I am a 23 years old, BTech. graduate in COmputer Science & Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. I have huge interest in Machine Learning, Data Science, and Deep Learning. I love reading good books, Medium blogs & Quora. I am a Hindi poet and sometimes write in English too. <br>
 When I am not reading or writing, or not studying, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe.
 
 

@@ -31,3 +31,5 @@ It is just that we should always check our emotions and correctly evaluate whate
 Just Remember, "Down as well as Ups spice life, but need to be in balance." Similarly, We need logical as well as Emotional brain, but in perfect balance.
 
 >The above blog is completely inspired from Daniel Goleman's book, "Emotional Intelligence. Why it can matter more than IQ". All these techniques and examples are based on the book. You should read the book for detailed coverage of each aspect discussed in the blog above.
+
+If you enjoyed reading, please do share the post and tell me about your thoughts in comments below.

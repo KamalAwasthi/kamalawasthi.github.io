@@ -7,7 +7,7 @@ future: true
 
 Human Mind is the most complex and mysterious machinery found in the World. It handles and is capable of handling much more than we can imagine. We think our mind is used only in thinking, logical reasoning, taking decisions, recognising and remembering and in all those things we do consciously. But this little but the most complex thing in the world, does much more than this. 
 
-Actually, we have two minds. In simpler terms, we have two nature of same mind. First one is "**Logical Mind**" which we all are familiar with and the other one is "**Emotional Mind**". While Logical Mind is responsible for more rational and toughtful decisions, Emotional Mind governs sudden reflexes in response of something it captures. Emotional Mind is more volatile and it easily reflects whatever it feels into our actions. It gets tricks us in showing sudden irrational behaviour or some actions which were not really neccessary at the the moment. 
+Actually, we have two minds. In simpler terms, we have two nature of same mind. First one is "**Logical Mind**" which we all are familiar with and the other one is "**Emotional Mind**". While Logical Mind is responsible for more rational and toughtful decisions, Emotional Mind governs sudden reflexes in response of something it captures. Emotional Mind is more volatile and it easily reflects whatever it feels into our actions. It tricks us into showing sudden irrational behaviour or some actions which were not really neccessary at the the moment. 
 
 But surprisingly, during the course of evolution of today's modern age human beings from its early-age marine life, the Emotional Brian developed much before than the logical brain started developing. **Daniel Goleman** talks about this evolution of logical brain from the emotional one into detail in his book, "**Emotional Intelligence. Why it can Matter more than IQ**". Infact this whole post is inspired from his book which talks about the relevance of emotional intelligence in our lives and how we should take care of it. 
 
@@ -22,7 +22,7 @@ So the questions arises here is: Can Emotion be Intelligence? and the answer is 
 
 >"KNOW THYSELF"<br>-Socrates
 
-Life is a boon who knows Self-Awareness and a total tragedy for one who doesn't. Frued has desribed it as "**evenly hovering attention**". Daniel Goleman has talked about it in his book as, **an interested yet unreactive witness**. Some psycho-analysts call it the "**observing ego**".
+Life is a boon for someone who knows Self-Awareness and a total tragedy for one who doesn't. Frued has desribed it as "**evenly hovering attention**". Daniel Goleman has talked about it in his book as, **an interested yet unreactive witness**. Some psycho-analysts call it the "**observing ego**".
 
 As Daniel Goleman describes, Self-awareness is not an attention that gets carried away by emotions or overreaction. Rather, it is neutral mode that maintains self-reflectiveness amidst turbulent emotions. It is just keeping a check on your emotions so that thay do not get ahead of us and do not overshadow our logical mind. We should always listen to our emotional mind but with a neutral sense without getting a biased approach. Sometime it can give us the faulty perception, but it also gives us the required empathy and neccessary emotions required to interect with others, undersatnd someone or some situation, and make others feel the warmth we have for them in our heart. 
 

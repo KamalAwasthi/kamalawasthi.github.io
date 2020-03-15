@@ -1,22 +1,22 @@
 ---
 title: About Me
 feature_text: |
-  *Hi, I'M*{:style="color:#e74c3c;font-size:2em;text-align:left;font-style:normal;font-weight:normal;"}
+  *Namaste, I'm*{:style="color:#e74c3c;font-size:2em;text-align:left;font-style:normal;font-weight:normal;"}
   : # KAMAL AWASTHI
   ---
-   *Machine Learning Engineer*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *Deep Learning*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   *M. Tech CSE Student*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *&*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"} *Machine Learning*{:style="font-size:0.85em;text-align:left;font-style:normal;font-weight:normal;"} *enthusiast*{:style="color:white;text-align:left;font-style:normal;font-weight:normal;font-size:0.85em;"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 feature_image: "assets/back.jpg"
 ---
 
-I am a 23 years old, BTech. graduate in Computer Science & Engineering from [Indian Institute of Information Technology Vadodara](http://www.iiitvadodara.ac.in/), Gujarat, India. I have huge interest in Machine Learning, Data Science, and Deep Learning. I love reading good books, Medium blogs & Quora. I am a Hindi poet and sometimes write in English too. <br>
-When I am not reading or writing, or not studying, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe.
+I am a 24 years old, 1st year M.Tech. student  in Computer Science & Engineering Department at IIIT-Delhi, New-Delhi, India. I am interested in Machine Learning, Data Mining and Intermediate level competitive programming. I love reading and writing Hindi poems in my spare time. <br>
+When I am not reading/writing and not studying, I am probably sleeping or thinking deep about the nearly-impossible-to-solve mysteries of this universe.
 
 
 
 <!-- ## Internships and Projects -->
 
-Some of my achievements involve:
+
 
 ### Publications:
 
@@ -32,6 +32,9 @@ Some of my achievements involve:
 
 - [DAiSEE : Towards the User Engagement Recognition in the wild](#)
 : It is one of a kind video dataset available [here](https://iith.ac.in/~daisee-dataset/). The project involved the reliable recognition of the videos in the wild, and Developement of well organised dataset with proper documentattions. It also involved the implementation of deep-neural netwroks and 3D Convolution Techniques. This project was a part of my summer internship @[Indian Institute of Technology Hyderabad](https://cse.iith.ac.in/?q=internship)
+
+- Google Play App Rating Prediction
+: The my first Data Mining Project. I used the kaggle dataset: [Google Play Store App](https://www.kaggle.com/lava18/google-play-store-apps). I used [SVM](https://en.wikipedia.org/wiki/Support-vector_machine), [Regression](https://en.wikipedia.org/wiki/Regression_analysis), K-Nearest Neighbour([KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)) and Artificial Neural Network([ANN](https://en.wikipedia.org/wiki/Artificial_neural_network)) for the task. Report is avialable [here](https://drive.google.com/file/d/1ItjzKaECwYAxFSK-pNTQhAvUuD2KiU0S/view?usp=sharing) 
 
 - [IIIT Vadodara College Website](http://www.iiitvadodara.ac.in/)
 : It is the repository of the source code for official website of Indian Institute of Information Technology Vadodara. I worked as Supporting Developer in the project. You can call `contributor()` function in debugging console of your browser to see the full list of contributors

@@ -72,7 +72,7 @@ social:
   links:
     - "https://twitter.com/kamalawasthi19"
     - "https://github.com/KamalAwasthi"
-    - "https://www.instagram.com/kamal.awasthi/"
+    - "https://www.instagram.com/inklinks_of_my_heart/"
 
 # Analytics
 analytics:
@@ -107,7 +107,7 @@ author:
       url: "https://github.com/KamalAwasthi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kamal.awasthi/"
+      url: "https://www.instagram.com/inklinks_of_my_heart/"
 
 # Site Footer
 footer:
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kamal.awasthi/"
+      url: "https://www.instagram.com/inklinks_of_my_heart/"
 
 
 # Reading Files

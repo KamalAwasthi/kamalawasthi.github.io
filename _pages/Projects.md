@@ -7,7 +7,7 @@ author_profile: false
 
 ### Publications:
 
-- [DAiSEE: Towards User Engagement Recognition in the Wild](https://www.visionmeetscognition.org/fpic2018/papers/12%20DAiSEE%20-%20Towards%20User%20Engagement%20Recognition%20in%20the%20Wild.pdf), dataset for understanding user engagement in the wild from videos, DAiSEE, available now [here](https://iith.ac.in/~daisee-dataset/) :innocent: . Dataset was presented at the 4th Vision meets Cognition workshop at CVPR 2018, and was also featured in [the media (The Hindu)](https://www.thehindu.com/sci-tech/science/iit-hyderabad-dataset-to-understand-online-user-engagement/article24180468.ece). :smile:
+- [DAiSEE: Towards User Engagement Recognition in the Wild](https://www.visionmeetscognition.org/fpic2018/papers/12%20DAiSEE%20-%20Towards%20User%20Engagement%20Recognition%20in%20the%20Wild.pdf), dataset for understanding user engagement in the wild from videos, DAiSEE, available now [here](https://iith.ac.in/~daisee-dataset/) 😇 . Dataset was presented at the 4th Vision meets Cognition workshop at CVPR 2018, and was also featured in [the media (The Hindu)](https://www.thehindu.com/sci-tech/science/iit-hyderabad-dataset-to-understand-online-user-engagement/article24180468.ece). :smile:
 
 ### Internships & Certificates:
 

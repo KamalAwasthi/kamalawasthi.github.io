@@ -1,7 +1,12 @@
 ---
-title: A Three Step Guide to Time Management
-category: Life Style
-future: true
+layout: single
+classes: wide
+title: "3 Step Guide to Time Managament"
+date:  2017-07-06
+last_modified_at:  2018-09-02
+category: guides
+tags: 
+- guides
 ---
 
 

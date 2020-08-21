@@ -1,7 +1,15 @@
 ---
-title: What do I know about Emotional Intelligence but probably You Don't?
+layout: single
+classes: wide
+title: "What do I know about Emotional INtelligence but you dont"
+date:  2017-07-06
+last_modified_at:  2018-09-02
 category: Life Style
-future: true
+tags: 
+- guides
+- how-to
+- jekyll
+- github
 ---
 
 

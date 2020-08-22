@@ -59,7 +59,7 @@ layout: default
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
-    <div class="page__related" style="width: auto;float: auto">
+    <div class="page__related" style="width: auto;float: auto;margin-bottom: 5px;">
       <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
@@ -69,14 +69,14 @@ layout: default
     </div>
   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
   {% elsif page.id and page.related %}
-    <div class="page__related" style="width: auto;float: auto">
+    <div class="page__related" style="width: auto;float: auto;margin-bottom: 5px;padding">
       <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       <div class="grid__wrapper">
         {% for post in site.posts limit:4 %}
           {% if post.id == page.id %}
             {% continue %}
           {% endif %}
-          {% include archive-taxonomy.html type="grid" %}
+          {% include type="grid" %}
         {% endfor %}
       </div>
     </div>

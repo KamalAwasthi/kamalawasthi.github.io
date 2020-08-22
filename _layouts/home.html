@@ -4,8 +4,23 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle"> Now </h3>
-{% if paginator %}
+<h3 class="archive__subtitle"> What have I been up to lately? </h3>
+
+Catch up to what am doing these days or which books I am reading. You can also checkout my Watchlist & Anime-List.
+
+<button class="button" style="  background-color: #0092ca;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;">Visit my Now Page</button> 
+
+
+<!-- {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
@@ -18,7 +33,7 @@ layout: archive
     	{% include archive-single.html type=entries_layout %}
     {% endif %}
   {% endfor %}
-</div>
+</div> -->
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Updates" }}</h3>

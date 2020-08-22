@@ -6,23 +6,11 @@ layout: archive
 
 <h3 class="archive__subtitle"> What have I been up to lately? </h3>
 
-Catch up to what am doing these days or what I am reading. You can also checkout my AnimeList. Visit my <a href="/now" style="color:#0092ca;">Now Page</a>
-
-
-<!-- {% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-  	{% if post.categories contains "now" %}
-    	{% include archive-single.html type=entries_layout %}
-    {% endif %}
-  {% endfor %}
-</div> -->
+<div class="archive__item-excerp">
+Catch up to what I am doing these days or what I am reading. You can also checkout my AnimeList. Visit my <a href="/now" style="color:#0092ca;">Now Page</a>
+</div>
+ 
+---
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Updates" }}</h3>

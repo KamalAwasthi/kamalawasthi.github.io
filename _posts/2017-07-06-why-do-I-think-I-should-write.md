@@ -1,13 +1,16 @@
 ---
 layout: single
-classes: wide
+excerpt: "Everyone has to start seomwhere. Everyone has something to tell. Listen & Learn"
+header:
+  overlay_color: "#333"
 title: "Why do I think I should write"
 date:  2017-07-06
 last_modified_at:  2018-09-02
 comments: true
 category: Life-Style
 tags: 
-- how-to
+- Motivation
+- Reason
 ---
 
 Well! let’s face this. We all have to start somewhere. Every famous name today was once an amateur learner.

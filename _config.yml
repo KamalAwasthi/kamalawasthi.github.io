@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : kamalawasthi #https://help.disqus.com/customer/portal/articles/kamalawasthi # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : kamalawasthi.in #https://help.disqus.com/customer/portal/articles/kamalawasthi # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Kamal Awasthi"
   avatar           : /assets/images/bio_photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am boy who is in eternal love with Poetry, Philosophies & Coding. Read my poems @[inklins.me](https://inklinks.me/). To read more about me head to **About** section."
+  bio              : "I am in eternal love with Poetry, Philosophies & Coding. Read my poems @[inklins.me](https://inklinks.me/). To read more about me head to **[About](/about)** section."
   location         : "India"
   email            : kamalawasthi97@gmail.com
   links:

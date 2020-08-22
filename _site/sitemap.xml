@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/now/why-do-I-think-I-should-write/</loc>
+<loc>http://localhost:4000/life-style/why-do-I-think-I-should-write/</loc>
 <lastmod>2018-09-02T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -10,6 +10,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/life%20style/What-do-I-Know-About-Emotional-Intelligence-But-You-Dont/</loc>
+<lastmod>2018-09-02T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/now/What-Am-I-Doing-Now/</loc>
 <lastmod>2018-09-02T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -49,12 +53,15 @@
 <loc>http://localhost:4000/tags/github/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/categories/now/</loc>
+<loc>http://localhost:4000/categories/life-style/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/guides/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/categories/life-style/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/now/</loc>
 </url>
 </urlset>

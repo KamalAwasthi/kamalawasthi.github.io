@@ -14,7 +14,7 @@ tags:
 - Algo
 ---
 
-This is a simple iterative solution using one Stack to Recover Binary Tree Problem given on Leetcode([Link](https://leetcode.com/problems/recover-binary-search-tree/)) & GeeksForGeeks([Link](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/)). 
+This is a simple iterative solution using one Stack to Recover Binary Tree Problem given on Leetcode([Link](https://leetcode.com/problems/recover-binary-search-tree/){:target="_blank"}) & GeeksForGeeks([Link](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/){:target="_blank"})
 
 > Problem Statement: Two elements of a binary search tree (BST) are swapped by mistake. Recover the tree without changing its structure. Category: [Hard](#link){: .btn .btn--danger .btn--small}
 
@@ -36,7 +36,7 @@ TreeNode* t=NULL;
 ```
 \*prev pointer is actually to store the previous node value we encounter before the current node. \*first is to store the first misplaced value in the tree. Similarly, \*second pointer stores the second misplaced value. 
 
-Now we start our loop with inorder traversal. We will use the exact same approach we use for iterative inorder traversal of a binary tree. If you are not familiar with this approach you can look up [here](#link). Have a look at the code and then we will discuss what we are actaully doing there.
+Now we start our loop with inorder traversal. We will use the exact same approach we use for iterative inorder traversal of a binary tree. If you are not familiar with this approach you can look up [here](#link){:target="_blank"}. Have a look at the code and then we will discuss what we are actaully doing there.
 ```
         while(1){
             while(root){

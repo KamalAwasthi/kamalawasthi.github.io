@@ -23,7 +23,7 @@ It is often said:
 
 >"It takes 21 days to make a habit and 90 days to make a lifestyle."
 
-All you need is consistency. As discussed in a video on [Time Management](https://www.youtube.com/watch?v=VUk6LXRZMMk) from the Wellcast team. We need to follow a three step process:
+All you need is consistency. As discussed in a video on [Time Management](https://www.youtube.com/watch?v=VUk6LXRZMMk){:target="_blank"} from the Wellcast team. We need to follow a three step process:
 
 >RAC: Record, Analyse and Change.
 

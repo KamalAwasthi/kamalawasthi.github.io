@@ -13,7 +13,7 @@ url                      : "https://kamalawasthi.in/" # the base hostname & prot
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KamalAwasthi/kamalawasthi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.webp" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Beyond Me & My Mind" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
@@ -51,7 +51,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Kamal Awasthi"
-  avatar           : /assets/images/bio_photo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio_photo.webp # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am in eternal love with Poetry, Philosophies & Coding. Read my poems @[inklins.me](https://inklinks.me/). To read more about me head to **[About](/about)** section."
   location         : "India"
   email            : kamalawasthi97@gmail.com

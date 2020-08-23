@@ -3,6 +3,7 @@ layout: single
 excerpt: "Everyone has to start seomwhere. Everyone has something to tell. Listen & Learn"
 header:
   overlay_color: "#333"
+  teaser: /assets/images/write.jpg
 title: "Why do I think I should write"
 date:  2017-07-06
 last_modified_at:  2018-09-02

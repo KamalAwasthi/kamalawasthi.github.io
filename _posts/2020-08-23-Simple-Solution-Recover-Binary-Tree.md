@@ -3,6 +3,7 @@ layout: single
 excerpt: "This is a simple iterative solution to Recover Binary Tree Problem given on Leetcode and GeeksForGeeks"
 header:
   overlay_color: "#333"
+  teaser: /assets/images/coding.jpg
 title: "Simple Solution to Recover Binary Tree"
 date:  2020-08-23
 last_modified_at:  2020-08-23

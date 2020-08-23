@@ -3,6 +3,7 @@ layout: single
 excerpt: "Emotional Intelligence matters more than IQ,in most of the situations in Life."
 header:
   overlay_color: "#333"
+  teaser: /assets/images/eq.jpg
 title: "What do I know about Emotional Intelligence but you dont"
 date:  2017-07-06
 last_modified_at:  2018-09-02

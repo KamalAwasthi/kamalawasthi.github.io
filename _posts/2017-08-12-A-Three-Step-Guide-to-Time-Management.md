@@ -3,6 +3,7 @@ layout: single
 excerpt: "Time Management is the greatest skill anyone can learn."
 header:
   overlay_color: "#333"
+  teaser: /assets/images/time.jpg
 title: "3 Step Guide to Time Managament"
 date:  2017-07-06
 last_modified_at:  2018-09-02

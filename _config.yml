@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Kamal's Blog"
 title_separator          : "-"
-subtitle                 : Here and Now Life # site tagline that appears below site title in masthead
+subtitle                 : Kamal Awasthi's Blog # site tagline that appears below site title in masthead
 name                     : "Kamal Awasthi"
 description              : "It is all about the knowledge"
 url                      : "https://kamalawasthi.in/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -14,7 +14,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KamalAwasthi/kamalawasthi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/teaser.webp # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.webp" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Beyond Me & My Mind" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Here and Now Life " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -90,12 +90,6 @@ author:
   location         : "India"
   email            : kamalawasthi97@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kamalawasthi97@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kamalawasthi.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/kamalawasthi19"

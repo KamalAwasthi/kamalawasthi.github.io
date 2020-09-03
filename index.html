@@ -1,4 +1,49 @@
 ---
-layout: home
+title: "<br><br>
+Namaste, I am<br><br>**KAMAL AWASTHI**"
+layout: single
+date: 2016-03-23T11:48:41-04:00
 author_profile: true
+header:
+  overlay_image: /assets/images/back.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "A **Web-Development** and **Machine Learning** Enthusiast.<br> I post some of my thoughts here and all of what is going on in my life. Visit my [**Now Page**](/now)
+<br>
+<br>
+<br>
+<br>
+
+"
+intro: 
+  - excerpt: 'A Web-Development and Machine Learning Enthusiast.<br>This is my personal blogging page. I post some of my thoughts here and all that is goinf on in my life. I have also made a page for all the projects I have done.`type="center"`'
 ---
+
+
+<h3 class="archive__subtitle"> What have I been up to lately? </h3>
+
+<div class="archive__item-excerp">
+Catch up to what I am doing these days or what I am reading. You can also checkout my AnimeList. Visit my <a href="/now" style="color:#0092ca;">Now Page</a>
+</div>
+ 
+---
+
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Updates" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% if post.categories contains "now" %}
+      {% continue %}
+    {% endif %}
+      {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

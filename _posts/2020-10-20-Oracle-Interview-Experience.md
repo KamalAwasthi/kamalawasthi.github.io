@@ -4,7 +4,7 @@ excerpt: "My personal experience of giving an interview to oracle and being sele
 header:
   overlay_color: "#333"
   teaser: /assets/images/coding.jpg
-title: "Oracle Interview Experience | Member of Technical Staff(Server Technology) | 2020"
+title: "Oracle Interview Experience for Member of Technical Staff(Server Technology) 2020"
 date:  2020-10-20
 last_modified_at:  2020-10-20
 category: Interview

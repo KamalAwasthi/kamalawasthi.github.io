@@ -17,7 +17,7 @@ tags:
 
 Oracle visited my campus for Server Technology Role recently. Selection process involved total of 4 rounds. 1 Written + 3 Interview Rounds.  
 
-<u>**Written Round**</u>:
+**<u>Written Round</u>:**
 
 Written round was an online MCQ round for 107 minutes. Exam was mainly divided into 5 sections:
 
@@ -48,15 +48,15 @@ This was more of a theoretical and OOPS based round. Interviewer started with my
 
 • What are some features of C++ you like(I had mentioned C++ in my resume)?
 
-            I told him about object-oriented programming, program re-usability, Encapsulation, Abstraction and Polymorphism. He was satisfied and asked me to stop there.
+*I told him about object-oriented programming, program re-usability, Encapsulation, Abstraction and Polymorphism. He was satisfied and asked me to stop there.*
 
 • How many types of polymorphism are there?
 
-          I explained static and dynamic polymorphism.  
+*I explained static and dynamic polymorphism.*  
 
 • What is abstract class? How is it made? What is the purpose of abstract classes?
 
-         I enunciated all of it with an example of area class being inherited by rectangle and triangle class. I also explained about virtual keyword and pure virtual functions.
+ *I enunciated all of it with an example of area class being inherited by rectangle and triangle class. I also explained about virtual keyword and pure virtual functions.*
 
 • What is interface? How it is different from abstract class?
 
@@ -64,17 +64,17 @@ This was more of a theoretical and OOPS based round. Interviewer started with my
 
 
 
-         I answered no and explained why.
+ *I answered no and explained why.*
 
 • What will happen if we call a derived class function(overridden) through a base class object?
 
-         It was a tricky question but I was lucky to try it out just one night before the interview hence I knew that the answer was: error message because method overriding can only be done by calling the method through a pointer of base class.
-
+ *It was a tricky question but I was lucky to try it out just one night before the interview hence I knew that the answer was: error message because method overriding can only be done by calling the method through a pointer of base class.
+*
 • Write a program to reverse a string.
 
 • Have you worked on full stack development?
 
-         I explained a full-stack web application I made in my B.Tech. He was satisfied with my explanation.
+ *I explained a full-stack web application I made in my B.Tech. He was satisfied with my explanation.*
 
 This was the end of Round 1. I was confident enough that I will make it to the second round.
 
@@ -82,7 +82,7 @@ This was the end of Round 1. I was confident enough that I will make it to the s
 
 • Why is there a gap of 1 year between your B.tech and Mtech.?
 
-         I took a drop of one year to prepare for the GATE Exam hence I explained to him the reason for the gap.
+ *I took a drop of one year to prepare for the GATE Exam hence I explained to him the reason for the gap.*
 
 
 
@@ -90,27 +90,27 @@ This was the end of Round 1. I was confident enough that I will make it to the s
 
 • Why do you not use python for programming?
 
-          I have worked on python a lot as almost all the projects I have done are in python but for algorithm coding have been using C++ from my 12th standard as it was my optional subject in 12th.
+  *I have worked on python a lot as almost all the projects I have done are in python but for algorithm coding have been using C++ from my 12th standard as it was my optional subject in 12th.*
 
 • What are the advantages of pandas over lists?
 
-         I explained about the functions which come along with pandas data frame which make it much more powerful and fast.
+ *I explained about the functions which come along with pandas data frame which make it much more powerful and fast.*
 
 • Tell me about a project you have done in python?
 
-         I again discussed the project I did in my Btech. It was on python-Django
+ *I again discussed the project I did in my Btech. It was on python-Django*
 
 • How sessions are maintained in Django?
 
 • Code a simple session handling mechanism. Register a user with a username and password(also explain how will you store password) and on every login display a welcome message to the user along with the number of times he/she has logged in before and what was his/her last login time.
 
-        I coded all of it and he seemed happy with my coding, fortunately code ran in first time without any error. I think may be The Force was with Me 😛
+*I coded all of it and he seemed happy with my coding, fortunately code ran in first time without any error. I think may be The Force was with Me :grinning:*
 
 
 
 • What will you choose between cpp and python?
 
-         It was a tough choice for me so I took my time explaining to him why it was a tough choice for me but  at last I chose python just because it has such a wide application domain.
+ *It was a tough choice for me so I took my time explaining to him why it was a tough choice for me but  at last I chose python just because it has such a wide application domain.*
 
 • Two Rope puzzle.(https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/)
 
@@ -124,27 +124,27 @@ This was more of a discussion round than a technical round. Though it did not in
 
 • What do you know about Oracle?
 
-         I told about the first impression of Oracle I had since the first time I ever installed java on my system, a little window popped up which said over a million systems run on java and there was a pretty sign of oracle on that window. I also told him about the  Solaris operating system.
+ *I told about the first impression of Oracle I had since the first time I ever installed java on my system, a little window popped up which said over a million systems run on java and there was a pretty sign of oracle on that window. I also told him about the  Solaris operating system.*
 
 • If you got so fascinated about Oracle because of Java then why is Java not in your Resume?
 
 
 
-         I explained him the first ever programming language I learnt was Cpp and I kind of picked it up as my primary coding language since my 12th standard and continued using it. Although I was taught java in my B.tech. but It is just a matter of fact that I kept C++ as my main coding language this does not mean that I do not know the power of java or its huge application.
+ *I explained him the first ever programming language I learnt was Cpp and I kind of picked it up as my primary coding language since my 12th standard and continued using it. Although I was taught java in my B.tech. but It is just a matter of fact that I kept C++ as my main coding language this does not mean that I do not know the power of java or its huge application.*
 
 • What do you know about cloud computing?
 
-         I knew only the basics of it hence I explained that much and informed the interviewer that I have never worked on it hence I know this much only.
+ *I knew only the basics of it hence I explained that much and informed the interviewer that I have never worked on it hence I know this much only.*
 
 • How will you implement SSO?
 
-         I explained basic mechanism of a one step login system
+ *I explained basic mechanism of a one step login system*
 
 • Some questions on projects I mentioned in my Resume.
 
 • What if my login credentials are coming from a place which is not my usual location, this could be a malicious login. How will you ensure the safety of my account in this case?
 
-         I gave him solution of saving mac address in the system but he was not convinced then I gave him a solution where we could add an extra step for sign in by sending OTP to user’s mobile number in case login credentials are coming from some place which is not a common location for that user to login. He accepted this answer.
+ *I gave him solution of saving mac address in the system but he was not convinced then I gave him a solution where we could add an extra step for sign in by sending OTP to user’s mobile number in case login credentials are coming from some place which is not a common location for that user to login. He accepted this answer.*
 
 I received mail from Oracle late night informing that I was selected. Next day the same was informed by the Placement Cell of my college.  
 

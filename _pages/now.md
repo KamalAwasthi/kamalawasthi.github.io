@@ -22,9 +22,14 @@ author_profile: true
 
 ## What am reading?
 
-- [Here, There and Everywhere](https://www.amazon.in/Here-There-Everywhere-Best-Loved-Stories/dp/0143444344){:target="_blank"}, by Sudha Murthy
 - [12 Rules to Learn to Code](https://www.appbrewery.co/p/12-rules-to-learn-to-code){:target="_blank"}, Angela Yu
-- [Fundamentals of Databse Systems](http://www.mim.ac.mw/books/Elmasri-Navathe-Fundamentals-of-Database-Systems-5th-Editi.pdf){:target="_blank"}
+- [Computer Architecture : A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1){:target="_blank"} by John Hennessy & David Patterson
+
+
+## My Favorite Novels/Books
+
+- [Here, There and Everywhere](https://www.amazon.in/Here-There-Everywhere-Best-Loved-Stories/dp/0143444344){:target="_blank"}, by Sudha Murthy
+- [The Five People You Meet In Heaven](https://www.amazon.in/Five-People-You-Meet-Heaven/dp/0751536148){:target="_blank"} by Mitch Albom
 
 ## Anime's I love(not in any specific order)
 

@@ -20,21 +20,15 @@ author_profile: true
 	- I feel really glad to join their team as Teaching Assistant(TA).
 	- Will update more on this soon.
 
-## What am reading?
+## What am I reading?
 
 - [12 Rules to Learn to Code](https://www.appbrewery.co/p/12-rules-to-learn-to-code){:target="_blank"}, Angela Yu
 - [Computer Architecture : A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1){:target="_blank"} by John Hennessy & David Patterson
 
-
-## My Favorite Novels/Books
-
-- [Here, There and Everywhere](https://www.amazon.in/Here-There-Everywhere-Best-Loved-Stories/dp/0143444344){:target="_blank"}, by Sudha Murthy
-- [The Five People You Meet In Heaven](https://www.amazon.in/Five-People-You-Meet-Heaven/dp/0751536148){:target="_blank"} by Mitch Albom
-
-## Anime's I love(not in any specific order)
-
-- [Naruto](https://www.viz.com/naruto){:target="_blank"}(Personal Favourite) 
+## What am I watching?
+- Boruto: Noruto Next Generations
 - One Piece
-- Overlord
-- One Punch Man
 - Gintama
+
+You can find a complete list of all my favoruite Novels and Animes in **[About](/about)** section.
+

@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## What have I been upto lately?
-- ### Got placed:innocent:
+- ### Got placed :innocent:
     - I am very happy to share this thirilling news of my placement.
     - got placed in Oracle India for Member of technical staff(server technology) role.
 - ### Joined under Tav Sir for a capstone project

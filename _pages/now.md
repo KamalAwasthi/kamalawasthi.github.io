@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 ## What have I been upto lately?
- 
+- ### Got placed:innocent:
+    - I am very happy to share this thirilling news of my placement.
+    - got placed in Oracle India for Member of technical staff(server technology) role.
 - ### Joined under Tav Sir for a capstone project
 	- I am really excited to start my project under [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh){:target="_blank"} or Tav(as we all call him 😉) Sir. Looking forward to learn and work under his guidance. 
-	- Will be posting more updates about the capstone project and my experience soon.
+	- Have started working on interoperable data platform arounf COVID-19 data.
+
+## Other Updates 
 
 - ### Joined as TA for Computing for Medicine Course.
 	- A very innovating course being offered jointly by [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh){:target="_blank"} & [Dr. Ponnurangam Kumaraguru](https://www.iiitd.ac.in/pk){:target="_blank"}. The course is really one of its kind and is being taught by two brilliant minds at [IIITD](https://www.iiitd.ac.in/){:target="_blank"}. 

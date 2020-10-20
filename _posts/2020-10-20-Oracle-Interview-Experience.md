@@ -1,6 +1,6 @@
 ---
 layout: single
-excerpt: "My personal experience of giving an interview to oracle and being selected in it."
+excerpt: "My personal experience of giving an interview for oracle member of technical staff(server technology role) and being selected in it."
 header:
   overlay_color: "#333"
   teaser: /assets/images/coding.jpg

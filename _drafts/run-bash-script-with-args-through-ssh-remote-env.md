@@ -11,7 +11,7 @@ layout: single
 excerpt: Running a bash script with command line argument on a remote env through
   ssh
 header:
-  overlay_color: ''
+  overlay_color: "#333"
   teaser: ''
   upload_image: ''
 last_modified_at: 2022-05-21 00:00:00 +0530

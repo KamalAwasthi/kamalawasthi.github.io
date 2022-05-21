@@ -3,32 +3,37 @@ title: My Life Now
 permalink: "/now/"
 layout: archive
 author_profile: true
+
 ---
-
 ## What have I been upto lately?
-- ### Got placed 😇
-    - I am very happy to share this thirilling news of my placement.
-    - got placed in Oracle India for Member of technical staff(server technology) role.
-- ### Joined under Tav Sir for a capstone project
-	- I am really excited to start my project under [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh){:target="_blank"} or Tav(as we all call him 😉) Sir. Looking forward to learn and work under his guidance. 
-	- Have started working on interoperable data platform arounf COVID-19 data.
 
-## Other Updates 
+### Joined Oracle India 😇
 
-- ### Joined as TA for Computing for Medicine Course.
-	- A very innovating course being offered jointly by [Dr. Tavpritesh Sethi](https://www.iiitd.ac.in/tavpritesh){:target="_blank"} & [Dr. Ponnurangam Kumaraguru](https://www.iiitd.ac.in/pk){:target="_blank"}. The course is really one of its kind and is being taught by two brilliant minds at [IIITD](https://www.iiitd.ac.in/){:target="_blank"}. 
-	- I feel really glad to join their team as Teaching Assistant(TA).
-	- Will update more on this soon.
+* It has been \~10 months now since I joined Oracle.
+* but still working in WFH mode :sad: 
+* excited to meet teammates soon and visit the office in Bengaluru.
+
+### I finished a book, "The White Tiger"
+
+* Full of sarcastic humour and witty writing, loved the writing style of the author.
+* A must-read for everyone who wants to or already is familiar with society and its culture in India. Book also shows basic human nature and a journey of a poor man in India.
+* Absolutely loved it!
+
+## Other Updates
+
+### Joined as a mentor at Scalar Academy
+
+* Was approached by their side for a course that I could have been interested in :wink: I asked if I could help students as a mentor instead. 
 
 ## What am I reading?
 
-- [12 Rules to Learn to Code](https://www.appbrewery.co/p/12-rules-to-learn-to-code){:target="_blank"}, Angela Yu
-- [Computer Architecture : A Quantitative Approach](https://www.elsevier.com/books/computer-architecture/hennessy/978-0-12-811905-1){:target="_blank"} by John Hennessy & David Patterson
+* [The Body: A Guide for Occupants](https://www.goodreads.com/book/show/43582376-the-body "The Body: A Guide for Occupants ") 
+* [The Hitchhiker's Guide to the Galaxy](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy "The Hitchhiker's Guide to the Galaxy")
 
 ## What am I watching?
-- Boruto: Noruto Next Generations
-- One Piece
-- Gintama
 
-You can find a complete list of all my favoruite Novels and Animes in **[About](/about)** section.
+* [The Spy Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family)
+* [One Piece](https://en.wikipedia.org/wiki/One_Piece)
+* [Gintama](https://en.wikipedia.org/wiki/Gin_Tama)
 
+You can find a complete list of all my favoruite Novels and Animes in [**About**](/about) section.

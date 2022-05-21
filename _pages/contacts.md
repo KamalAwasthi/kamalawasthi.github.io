@@ -1,8 +1,8 @@
 ---
+title: Contact Me
+permalink: "/contact/"
 layout: single
-title: "Contact Me"
 author_profile: false
-permalink: /contact/
 ---
 
 <div style="border:1px solid black;">

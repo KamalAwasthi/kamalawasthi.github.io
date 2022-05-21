@@ -1,18 +1,21 @@
 ---
-layout: single
-excerpt: "My personal experience of giving an interview for oracle member of technical staff(server technology role) and being selected in it."
-header:
-  overlay_color: "#333"
-  teaser: /assets/images/coding.jpg
-title: "Oracle Interview Experience for Member of Technical Staff(Server Technology) 2020"
-date:  2020-10-20
-last_modified_at:  2020-10-20
-category: Interview
+title: Oracle Interview Experience for Member of Technical Staff(Server Technology)
+  2020
+date: 2020-10-20 00:00:00 Z
+categories:
+- Interview
 tags:
 - Interview Experience
 - Oracle
 - Member of Technical Staff
 - Server Technology
+layout: single
+excerpt: My personal experience of giving an interview for oracle member of technical
+  staff(server technology role) and being selected in it.
+header:
+  overlay_color: "#333"
+  teaser: "/assets/images/coding.jpg"
+last_modified_at: 2020-10-20 00:00:00 Z
 ---
 
 Oracle visited my campus for Server Technology Role recently. Selection process involved total of 4 rounds. 1 Written + 3 Interview Rounds.  

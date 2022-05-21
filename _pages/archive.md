@@ -1,6 +1,7 @@
 ---
-title: "Archives By Year"
+title: Archives By Year
+permalink: "/year-archive/"
 layout: archive
-permalink: /year-archive/
 author_profile: false
 ---
+

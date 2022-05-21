@@ -1,7 +1,8 @@
 ---
 title: Simple Solution to Recover Binary Tree
 date: 2020-08-23T00:00:00.000+00:00
-categories: []
+categories: 
+- Technical
 tags:
 - STL
 - DS

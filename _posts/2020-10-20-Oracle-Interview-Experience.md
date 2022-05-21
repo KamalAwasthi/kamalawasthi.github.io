@@ -2,7 +2,8 @@
 title: Oracle Interview Experience for Member of Technical Staff(Server Technology)
   2020
 date: 2020-10-20T00:00:00.000+00:00
-categories: []
+categories: 
+- Technical
 tags:
 - Interview Experience
 - Oracle

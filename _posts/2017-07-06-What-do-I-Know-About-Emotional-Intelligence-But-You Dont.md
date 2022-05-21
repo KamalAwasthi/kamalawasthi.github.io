@@ -2,7 +2,7 @@
 title: What do I know about Emotional Intelligence but you dont
 date: 2017-07-06 00:00:00 Z
 categories:
-- Life Style
+- Life-Style
 tags:
 - guides
 - Life

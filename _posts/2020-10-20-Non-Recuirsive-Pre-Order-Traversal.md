@@ -1,7 +1,8 @@
 ---
 title: Non-Recursive Pre-Order Traversal
 date: 2020-10-20T00:00:00.000+00:00
-categories: []
+categories: 
+- Technical
 tags:
 - Algo
 - DS

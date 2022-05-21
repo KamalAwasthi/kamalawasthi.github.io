@@ -1,8 +1,7 @@
 ---
 title: Simple Solution to Recover Binary Tree
-date: 2020-08-23 00:00:00 Z
-categories:
-- Algorithms
+date: 2020-08-23T00:00:00.000+00:00
+categories: []
 tags:
 - STL
 - DS
@@ -14,9 +13,9 @@ excerpt: This is a simple iterative solution to Recover Binary Tree Problem give
 header:
   overlay_color: "#333"
   teaser: "/assets/images/coding.jpg"
-last_modified_at: 2020-08-23 00:00:00 Z
----
+last_modified_at: 2020-08-23T00:00:00.000+00:00
 
+---
 This is a simple iterative solution using one Stack to Recover Binary Tree Problem given on Leetcode([Link](https://leetcode.com/problems/recover-binary-search-tree/){:target="_blank"}) & GeeksForGeeks([Link](https://www.geeksforgeeks.org/fix-two-swapped-nodes-of-bst/){:target="_blank"})
 
 > Problem Statement: Two elements of a binary search tree (BST) are swapped by mistake. Recover the tree without changing its structure. Category: [Hard](#link){: .btn .btn--danger .btn--small}

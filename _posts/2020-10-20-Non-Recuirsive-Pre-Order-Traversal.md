@@ -1,18 +1,19 @@
 ---
-layout: single
-excerpt: "A non-recursive solution for Pre-Order Traversal."
-header:
-  overlay_color: "#333"
-  teaser: /assets/images/coding.jpg
-title: "Non-Recursive Pre-Order Traversal"
-date:  2020-10-20
-last_modified_at:  2020-10-20
-category: Algorithms
+title: Non-Recursive Pre-Order Traversal
+date: 2020-10-20 00:00:00 Z
+categories:
+- Algorithms
 tags:
 - Algo
 - DS
 - Trees
 - STL
+layout: single
+excerpt: A non-recursive solution for Pre-Order Traversal.
+header:
+  overlay_color: "#333"
+  teaser: "/assets/images/coding.jpg"
+last_modified_at: 2020-10-20 00:00:00 Z
 ---
 
 Given a binary tree, we have to find the pre-order of it. We will do this with the help of while loop(iterative-solution).

@@ -1,20 +1,21 @@
 ---
-layout: single
-excerpt: "Emotional Intelligence matters more than IQ,in most of the situations in Life."
-header:
-  overlay_color: "#333"
-  teaser: /assets/images/eq.jpg
-title: "What do I know about Emotional Intelligence but you dont"
-date:  2017-07-06
-last_modified_at:  2018-09-02
-category: Life Style
-tags: 
+title: What do I know about Emotional Intelligence but you dont
+date: 2017-07-06 00:00:00 Z
+categories:
+- Life Style
+tags:
 - guides
 - Life
 - EQ
 - IQ
+layout: single
+excerpt: Emotional Intelligence matters more than IQ,in most of the situations in
+  Life.
+header:
+  overlay_color: "#333"
+  teaser: "/assets/images/eq.jpg"
+last_modified_at: 2018-09-02 00:00:00 Z
 ---
-
 
 Human Mind is the most complex and mysterious machinery found in the World. It handles and is capable of handling much more than we can imagine. We think our mind is used only in thinking, logical reasoning, taking decisions, recognising and remembering and in all those things we do consciously. But this little but the most complex thing in the world, does much more than this. 
 

@@ -1,7 +1,7 @@
 ---
 title: My Life Now
+permalink: "/now/"
 layout: archive
-permalink: /now/
 author_profile: true
 ---
 

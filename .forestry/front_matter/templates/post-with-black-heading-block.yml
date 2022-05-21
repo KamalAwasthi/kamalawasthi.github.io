@@ -39,4 +39,4 @@ fields:
   name: last_modified_at
   label: last_modified_at
 pages:
-- _posts/run-bash-script-with-args-through-ssh-remote-env.md
+- _posts/2022-05-21-run-bash-script-with-args-through-ssh-remote-env.md

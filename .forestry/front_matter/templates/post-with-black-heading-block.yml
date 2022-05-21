@@ -38,3 +38,5 @@ fields:
 - type: datetime
   name: last_modified_at
   label: last_modified_at
+pages:
+- _posts/run-bash-script-with-args-through-ssh-remote-env.md

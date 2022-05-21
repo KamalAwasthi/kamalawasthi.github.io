@@ -1,9 +1,8 @@
 ---
 title: Oracle Interview Experience for Member of Technical Staff(Server Technology)
   2020
-date: 2020-10-20 00:00:00 Z
-categories:
-- Interview
+date: 2020-10-20T00:00:00.000+00:00
+categories: []
 tags:
 - Interview Experience
 - Oracle
@@ -15,9 +14,9 @@ excerpt: My personal experience of giving an interview for oracle member of tech
 header:
   overlay_color: "#333"
   teaser: "/assets/images/coding.jpg"
-last_modified_at: 2020-10-20 00:00:00 Z
----
+last_modified_at: 2020-10-20T00:00:00.000+00:00
 
+---
 Oracle visited my campus for Server Technology Role recently. Selection process involved total of 4 rounds. 1 Written + 3 Interview Rounds.  
 
 **<u>Written Round</u>:**

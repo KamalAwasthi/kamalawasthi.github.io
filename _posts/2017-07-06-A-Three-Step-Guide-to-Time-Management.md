@@ -1,8 +1,7 @@
 ---
 title: 3 Step Guide to Time Managament
-date: 2017-07-06 00:00:00 Z
-categories:
-- guides
+date: 2017-07-06T00:00:00.000+00:00
+categories: []
 tags:
 - guides
 - Time Management
@@ -13,9 +12,9 @@ excerpt: Time Management is the greatest skill anyone can learn.
 header:
   overlay_color: "#333"
   teaser: "/assets/images/time.jpg"
-last_modified_at: 2018-09-02 00:00:00 Z
----
+last_modified_at: 2018-09-02T00:00:00.000+00:00
 
+---
 Time. When we say "Time" everyone goes like, "Oh! I waste a lot of time on unnecessary things, and end up regretting later". Time management is one of the rarest and most important skills found in one. It requires discipline to follow an optimised routine for a prolific life style. So, Is it really tough to manage time? Is it really a deal of firm determination & great dedication to make a habit of good time management?
 
 Well, It is but not if you do it with a proper action plan. I am here with 3 step process to manage your time better in three easy steps.

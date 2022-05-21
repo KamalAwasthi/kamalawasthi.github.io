@@ -1,0 +1,35 @@
+---
+label: post with black heading block
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: text
+    name: overlay_color
+    label: overlay_color
+  - type: file
+    name: teaser
+    label: teaser
+- type: datetime
+  name: last_modified_at
+  label: last_modified_at

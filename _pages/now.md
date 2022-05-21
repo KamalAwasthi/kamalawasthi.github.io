@@ -32,8 +32,8 @@ author_profile: true
 
 ## What am I watching?
 
-* [The Spy Family]()
-* [One Piece]()
-* [Gintama]()
+* [The Spy Family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family)
+* [One Piece](https://en.wikipedia.org/wiki/One_Piece)
+* [Gintama](https://en.wikipedia.org/wiki/Gin_Tama)
 
 You can find a complete list of all my favoruite Novels and Animes in [**About**](/about) section.

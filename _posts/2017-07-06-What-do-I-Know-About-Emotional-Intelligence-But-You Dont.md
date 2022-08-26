@@ -17,21 +17,10 @@ header:
 last_modified_at: 2018-09-02T00:00:00.000+00:00
 
 ---
-<script type="text/javascript" language="javascript">
 
-      var aax_size='728x90';
+The human Mind is the most complex and mysterious machinery found in the World. It handles and is capable of handling much more than we can imagine. We think our mind is used only in thinking, logical reasoning, taking decisions, recognising and remembering and in all those things we do consciously. But this little but the most complex thing in the world, does much more than this.
 
-      var aax_pubname = 'thirtytwodegr-21';
-
-      var aax_src='302';
-
-    </script>
-
-    <script type="text/javascript" language="javascript" src="[http://c.amazon-adsystem.com/aax2/assoc.js](http://c.amazon-adsystem.com/aax2/assoc.js "http://c.amazon-adsystem.com/aax2/assoc.js")"></script>
-
-Human Mind is the most complex and mysterious machinery found in the World. It handles and is capable of handling much more than we can imagine. We think our mind is used only in thinking, logical reasoning, taking decisions, recognising and remembering and in all those things we do consciously. But this little but the most complex thing in the world, does much more than this.
-
-Actually, we have two minds. In simpler terms, we have two nature of same mind. First one is "**Logical Mind**" which we all are familiar with and the other one is "**Emotional Mind**". While Logical Mind is responsible for more rational and toughtful decisions, Emotional Mind governs sudden reflexes in response of something it captures. Emotional Mind is more volatile and it easily reflects whatever it feels into our actions. It tricks us into showing sudden irrational behaviour or some actions which were not really neccessary at the the moment.
+Actually, we have two minds. In simpler terms, we have two natures of same mind. First one is the "**Logical Mind**" which we all are familiar with and the other one is "**Emotional Mind**". While Logical Mind is responsible for more rational and toughtful decisions, Emotional Mind governs sudden reflexes in response of something it captures. Emotional Mind is more volatile and it easily reflects whatever it feels into our actions. It tricks us into showing sudden irrational behaviour or some actions which were not really neccessary at the the moment.
 
 But surprisingly, during the course of evolution of today's modern age human beings from its early-age marine life, the Emotional Brian developed much before than the logical brain started developing. **Daniel Goleman** talks about this evolution of logical brain from the emotional one into detail in his book, "**Emotional Intelligence. Why it can Matter more than IQ**". Infact this whole post is inspired from his book which talks about the relevance of emotional intelligence in our lives and how we should take care of it.
 

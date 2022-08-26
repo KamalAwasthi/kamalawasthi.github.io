@@ -154,15 +154,3 @@ I received mail from Oracle late at night informing me that I was selected. The 
 I dedicate this article to My best friend Ayushi who helped me in my difficult time and always encouraged me to be optimistic during this trying time of the pandemic.
 
 I would like to thank GeeksForGeeks and every single geek of this wonderful and so talented team. You guys rock. It is because of this forum(this website) guys like us dream to get our dream job. Every year so many students make their destiny so seriously, A very big Thanks to GeeksForGeeks for all this.
-
-<script type="text/javascript" language="javascript">
-
-      var aax_size='728x90';
-
-      var aax_pubname = 'thirtytwodegr-21';
-
-      var aax_src='302';
-
-    </script>
-
-    <script type="text/javascript" language="javascript" src="[http://c.amazon-adsystem.com/aax2/assoc.js](http://c.amazon-adsystem.com/aax2/assoc.js "http://c.amazon-adsystem.com/aax2/assoc.js")"></script>

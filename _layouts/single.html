@@ -1,7 +1,7 @@
 ---
 layout: default
----
 
+---
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -57,6 +57,13 @@ layout: default
       {% include post_pagination.html %}
     </div>
 
+    <script type="text/javascript" language="javascript">
+      var aax_size='728x90';
+      var aax_pubname = 'thirtytwodegr-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+    
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related" style="width: auto;">

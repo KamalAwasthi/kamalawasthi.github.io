@@ -33,7 +33,7 @@ teaser: "/assets/images/teaser.webp"
 logo: "/assets/images/logo.webp"
 masthead_title: 'Here and Now Life '
 breadcrumbs: true
-words_per_minute: 200
+words_per_minute: "150"
 comments:
   provider: disqus
   disqus:
@@ -170,7 +170,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   auto_ids: true
-  footnote_nr: 1
+  footnote_nr: "1"
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
@@ -179,7 +179,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: "/:categories/:title/"
-paginate: 5
+paginate: "5"
 paginate_path: "/page:num/"
 plugins:
 - jekyll-paginate
@@ -188,6 +188,7 @@ plugins:
 - jekyll-feed
 - jekyll-include-cache
 whitelist:
+- jekyll-menus
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-gist

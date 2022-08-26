@@ -5,9 +5,9 @@ layout: archive
 author_profile: true
 
 ---
-## What have I been up to lately? 
+## What have I been up to lately?
 
-###### updated: 27 June 2022
+###### updated: 26 July 2022
 
 ### Finished \~1 year at [Oracle](https://www.oracle.com/in/index.html "Oracle") 😇
 
